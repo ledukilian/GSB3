@@ -1,6 +1,6 @@
 ## 🧪 GSB 3 Project
 ### 🎯 About it
-A school project to provide medical visitors with a Web application to centralize visit reports, using **Laravel** framework.
+A school project with the goal to provide medical visitors with a Web application to centralize visit reports, using **Laravel** framework.
 
 There is a previous version of this project using only PHP [here (GSB2)](https://github.com/ledukilian/GSB2)
 
